@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Isanur's Portfolio",
   description:
-    "Python Dev with 2+ years exp in Django, Flask, AI, ML, AWS, seeking new challenges",
+    "Python Dev with 2+ years experience in Django, Flask, AI, ML, AWS, ready for challenges",
   og: {
     title: "Isanur Sardar Portfolio",
     type: "website",
