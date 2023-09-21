@@ -2,113 +2,119 @@
   "data": [
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "name": "Hummcare",
+      "createdAt": "2023-03-06T16:26:54Z",
+      "url": "https://hummcare.com",
+      "description": "Healthcare project where the patient can consult with experts Inbuilt chat system, B2B access via coupon or work email, Integrated third‑party payment system, video chat, Google calendar",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "Django",
+          "iconifyClass": "simple-icons:django"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "PostgreSQL",
+          "iconifyClass": "simple-icons:postgresql"
         },
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "AWS",
+          "iconifyClass": "simple-icons:amazonaws"
         },
         {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
+          "name": "Socket",
+          "iconifyClass": "simple-icons:socketdotio"
         }
       ]
     },
     {
       "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
+      "name": "HRMS",
       "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+      "url": "https://github.com/Isanur960",
+      "description": "Employee Management system for a mid‑sized organization integrated with both Jira and Mantis. This project is created using console‑based programming, and the system’s back end is connected to a MySQL database. Github access control through admin panel, Roll Based Access Control(RBAC)",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "Django",
+          "iconifyClass": "simple-icons:django"
+        },
+        {
+          "name": "PostgreSQL",
+          "iconifyClass": "simple-icons:postgresql"
+        },
+        {
+          "name": "AWS",
+          "iconifyClass": "simple-icons:amazonaws"
         }
       ]
     },
     {
       "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
+      "name": "FuelABC",
       "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
+      "url": "https://github.com/Isanur960",
+      "description": "FuelABC let you know the vital information about vehicle Speed, mileage, cost /km, daily fuel price, and suggested gear, Inbuilt chat system, B2B access via coupon or work email, Multi region fuel price distribution, Vehicle tracking, Device‑based authentication",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "Django",
+          "iconifyClass": "simple-icons:django"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "MySQL",
+          "iconifyClass": "simple-icons:mysql"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "AWS",
+          "iconifyClass": "simple-icons:amazonaws"
         }
       ]
     },
     {
       "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
+      "name": "Internal Data Scraper",
+      "createdAt": "2022-10-10T00:00:00Z",
+      "url": "https://github.com/Isanur960",
+      "description": "Developed a newtwork of web scraper, crawler and data processing unit to scrape varios company listing site and scrape probable lead data",
       "isFork": false,
       "languages": [
         {
+          "name": "NodeJS",
+          "iconifyClass": "simple-icons:nodedotjs"
+        },
+        {
+          "name": "Selenium",
+          "iconifyClass": "simple-icons:selenium"
+        },
+        {
           "name": "Python",
-          "iconifyClass": "logos-python"
+          "iconifyClass": "simple-icons:python"
+        },
+        {
+          "name": "AWS",
+          "iconifyClass": "simple-icons:amazonaws"
         }
       ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
-      "name": "react-awesome-loaders",
+      "name": "Wallrus",
       "createdAt": "2021-01-06T06:36:41Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-loaders",
-      "description": "🚀  High quality, super responsive and completely customisable Loading Animations to insert into your website with single line of code.",
+      "url": "https://thewallruscompany.com/",
+      "description": "🚀  High Scalability Ecommerce System for Interior Desginer",
       "isFork": false,
       "languages": [
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "Django",
+          "iconifyClass": "simple-icons:django"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "MySQL",
+          "iconifyClass": "simple-icons:mysql"
+        },
+        {
+          "name": "AWS",
+          "iconifyClass": "simple-icons:amazonaws"
         }
       ]
     }
