@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "Isanur Sardar",
   nickname: "isanur_sardar",
   subTitle:
-    "Python Dev with 2+ years exp in Django, Flask, AI, ML, AWS, seeking new challenges",
+    "Python Dev with 2+ years experience in Django, Flask, AI, ML, AWS, ready for challenges",
   resumeLink:
     "https://drive.google.com/file/d/1CkZ6b_l10C9WfGvtYGgvQbUzHgZ9qEOe/view?usp=sharing",
   portfolio_repository: "https://github.com/Isanur960/Isanur960",
@@ -324,7 +324,7 @@ const degrees = {
       alt_name: "GHC",
       duration: "2019 - 2022",
       descriptions: [
-        "⚡ I have studied Advance Physics with Computational and Analytical Cocepts",
+        "⚡ I have studied Advance Physics with Computational and Analytical Concepts",
         "⚡ At that time I have also done internship on Python Development",
       ],
       website_link: "https://ghcollege.ac.in",
